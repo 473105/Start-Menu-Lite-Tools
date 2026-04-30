@@ -29,10 +29,10 @@ If this project was helpful to you, please consider supporting ongoing developme
 
 ## Included Files
 
-- `Start_Menu_Lite_Tools_v#.#.##.ps1`: main app (SMLT)
-- `Icon_Allocator_v#.##.ps1`: companion app for icon category management
-- `Launch SMLT.cmd`: launcher for SMLT
-- `Launch IA.cmd`: launcher for Icon Allocator
+- `Start_Menu_Lite_Tools_v#.#.##.ps1`: main START MENU LITE TOOLS app (SMLT)
+- `Icon_Allocator_v#.##.ps1`: ICON ALLOCATOR companion app for icon category management
+- `Launch SMLT.cmd`: launcher for START MENU LITE TOOLS (SMLT)
+- `Launch IA.cmd`: launcher for ICON ALLOCATOR
 
 ## Safety Model
 
@@ -138,12 +138,13 @@ SMLT automatically creates these folders:
 ```text
 /Start-Menu-Lite-Tools
   README.md
-  Launch SMLT.cmd
-  Launch IA.cmd
-  Start_Menu_Lite_Tools_v#.#.##.ps1
-  Icon_Allocator_v#.##.ps1
-  /User Settings
-  /images
+  Start Menu Lite Tools v#.#.##.zip
+      Launch SMLT.cmd
+      Launch IA.cmd
+      Start_Menu_Lite_Tools_v#.#.##.ps1
+      Icon_Allocator_v#.##.ps1
+      /User Settings
+  LICENSE
 ```
 
 ## Contributing
