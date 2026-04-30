@@ -2,7 +2,7 @@
 I realize that this tool covers a very niche use case, but I wanted to restore the stock Windows 10 Start Menu back to a clean, intentional, and useful state. It always felt like over time the menu becomes a disorganized shortcut dumping ground for every app installation - and the only time I end up using it is just to shut down my PC. So if a clean Start Menu is something you've been missing in your life, then I'm sure this little program will be a welcome companion on your machine.
 
 # Start Menu Lite Tools (SMLT)
-This tool is a safe editor and organizer for your Start Menu shortcuts in Windows 10. It is built to make edits in the simulated grid first as pending actions, and only commit changes to the real Start Menu with the user’s approval.
+This PowerShell based tool is a safe editor and organizer for your Start Menu shortcuts in Windows 10. It is built to make edits in the simulated grid first as pending actions, and only commit changes to the real Start Menu with the user’s approval.
 This means that every action in this program is staged first, and nothing touches the real Start Menu until the "Apply All Changes" button is pressed.
 Start Menu Lite Tools is meant to give you control over renaming, moving, creating new shortcuts, changing icons, and cleaning up folders—without the mess of manual file/registry trial and error.
 This is also meant to be used on the vanilla Start Menu, although it can potentially work for heavily modified menus as well, since the program does not touch the UI structure. Try testing it in a VM first to avoid unpredictable behavior.
@@ -66,9 +66,8 @@ This makes large edits much easier to review before commit.
    - 
 ## Icon Allocator 
 
-This is helper app which allows to seach, categorize, and extract icons that reside on your system. 
-It was initially designed to help me fetch some system icons for the SMLT interface during the beginning stages of development. 
-It quickly got out of hand and grew into a second obscure app with some useful functions, so I decided to also include it as a supportive feature to the main application.   
+This helper app lets you search, categorize, and extract icons stored on your system. 
+It was originally created to help me pull system icons for the SMLT interface during the early stages of development, but over time it grew beyond its original purpose and became a standalone tool with some useful features, so I decided to include it as a supporting component of the main program.
 
 <div align="center"><img width="535" height="370" alt="SMLT_Icon_Allocator_img2" src="https://github.com/user-attachments/assets/e8c8cbc8-4f70-43d9-843c-ddfbf1fbaeec" />
 </div>
