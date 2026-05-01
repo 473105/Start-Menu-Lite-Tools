@@ -159,5 +159,5 @@ Issues and pull requests are welcome. For bug reports, include:
 
 ## Disclaimer
 
-This tool can modify real Start Menu shortcuts and folder structure after confirmation. Always create a backup before applying changes.
+This tool modifies real Start Menu shortcuts and folder structure after user confirmation. Even though the app wiil create automatic backups, it is best practice to create manual backups before applying changes.
 
