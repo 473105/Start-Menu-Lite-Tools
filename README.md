@@ -30,9 +30,9 @@ If this project was helpful to you, please consider supporting ongoing developme
 
 ## Included Files
 
-- `Start_Menu_Lite_Tools_v#.#.##.ps1`: main START MENU LITE TOOLS app (SMLT)
+- `Start_Menu_Lite_Tools_v#.#.##.ps1`: main START MENU LITE TOOLS app
 - `Icon_Allocator_v#.##.ps1`: ICON ALLOCATOR companion app for icon category management
-- `Launch SMLT.cmd`: launcher for START MENU LITE TOOLS (SMLT)
+- `Launch SMLT.cmd`: launcher for START MENU LITE TOOLS
 - `Launch IA.cmd`: launcher for ICON ALLOCATOR
 
 ## Safety Model
