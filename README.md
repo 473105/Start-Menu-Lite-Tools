@@ -159,5 +159,4 @@ Issues and pull requests are welcome. For bug reports, include:
 
 ## Disclaimer
 
-This tool modifies real Start Menu shortcuts and folder structure after user confirmation. Even though the app wiil create automatic backups, it is best practice to create manual backups before applying changes.
-
+This tool modifies real Start Menu shortcuts and folder structure after user confirmation. Even though the app will create automatic backups, it is best practice to create manual backups before applying changes. I have already tested this app on a handfull of Windows 10 LTSC installations, and will be testing Pro and Home versions soon.
