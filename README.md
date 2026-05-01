@@ -1,5 +1,5 @@
 ## Preface
-I realize that this tool covers a very niche use case, but I wanted to restore the stock Windows 10 Start Menu back to a clean, intentional, and useful state. It always felt like over time the menu becomes a disorganized shortcut dumping ground for every app installation - and the only time I end up using it is just to shut down my PC. So if a clean Start Menu is something you've been missing in your life, then I'm sure this little program will be a welcome companion on your machine.
+I realize that this tool covers a very niche use case, but I wanted to restore the stock Windows 10 Start Menu back to a clean, intentional, and useful state. It always felt like over time the menu becomes a disorganized shortcut dumping ground for every app installation - and the only time I end up using it is just to shut down my PC. My app aims to solve this issue. So if a clean Start Menu is something you've been missing in your life, then I'm sure this little program will be a welcome companion on your machine.
 
 # Start Menu Lite Tools (SMLT)
 This PowerShell based tool is a safe editor and organizer for your Start Menu shortcuts in Windows 10. It is built to make edits in the simulated grid first as pending actions, and only commit changes to the real Start Menu with the user’s approval.
