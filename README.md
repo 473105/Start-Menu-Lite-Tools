@@ -5,7 +5,8 @@ I realize that this tool covers a very niche use case, but I wanted to restore t
 This PowerShell based tool is a safe editor and organizer for your Start Menu shortcuts in Windows 10. It is built to make edits in the simulated grid first as pending actions, and only commit changes to the real Start Menu with the user’s approval.
 This means that every action in this program is staged first, and nothing touches the real Start Menu until the "Apply All Changes" button is pressed.
 Start Menu Lite Tools is meant to give you control over renaming, moving, creating new shortcuts, changing icons, and cleaning up folders without the mess of manual file/registry trial and error.
-This is also meant to be used on the vanilla Start Menu, although it can potentially work for heavily modified menus as well, since the program does not touch the UI structure. Try testing it in a VM first to avoid unpredictable behavior.
+Once your Start Menu is customized, the SMLT app can also act as a deployment mediator, packaging your curated layout into a portable backup, allowing for instant cloning of your organized menu across other Windows 10 installations.
+This tool was intended for used on the vanilla Start Menu, although it can potentially work on heavily modified menus as well, since the program does not touch the UI structure. Try testing it in a VM first to avoid unpredictable behavior.
 - No installation is required, just run the launcher. 
 - The SMLT app is not optimized for speed, so it will require a little patience.
 - This app is only for `All Apps` section in the Start Menu, not for Tiles.
