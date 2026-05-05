@@ -58,14 +58,14 @@ This makes large edits much easier to review before commit.
 - Grid refresh/sync after external filesystem edits
 - Built-in guide window
 - Addons panel (upcoming): consolidates user registry tweak addons from an `Addons` folder
-- 
+
 ## Addons Panel (Upcoming)
 
 - Located in `misc.` under `Convert registry edit to Addon` and is intended as a collection for user's personal registry edit files.
 - Planned action: 
    - Paste registry text and generate a clickable addon button in the Addons panel.
    - Copy registry file directly into `Addons` folder, and a clickable button appears after restarting the app.
-   - 
+  
 ## Icon Allocator 
 
 This helper app lets you search, categorize, and extract icons stored on your system. 
