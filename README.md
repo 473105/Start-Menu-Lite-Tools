@@ -78,10 +78,10 @@ If this project was helpful to you, please consider supporting ongoing developme
 ## Addons Panel
 
 - Located under `misc.` tab, and is intended as a collection for user's personal registry edit files.
-- Planned action: 
-   - Paste registry text and generate a clickable addon button in the Addons panel.
-   - Copy registry file directly into `Addons` folder, and a clickable button appears after restarting the app.
-   - Personalize buttons by changing their border color.
+- Creating Addon Buttons: 
+   - Either drag and drop a reg/txt file onto the `Create Addon` dialog window, or manually paste registry text into the provided fields.
+   - Alternatively, drop a registry/text file directly into `Addons` panel, or place a reg file in the folder's directory.
+- Personalize buttons by changing their border color.
 
 <br></br>
 ## Icon Allocator 
