@@ -1,0 +1,20 @@
+﻿{
+    "SchemaVersion":  2,
+    "UpdatedUtc":  "2026-05-25T07:18:44.6075780Z",
+    "Notes":  {
+                  "1. ADD \u0027Restore Previous Versions\u0027 to context menu_on.reg":  "by Shawn Brink\r\nMarch 16th 2017\r\nhttps://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html\r\n",
+                  "1. REMOVE \u0027Restore Previous Versions\u0027 from context menu_off.reg":  "by Shawn Brink\r\nMarch 16th 2017\r\nhttps://www.tenforums.com/tutorials/79513-remove-previous-versions-context-menu-properties-windows-10-a.html\r\n",
+                  "2. ADD \u0027Set as desktop background\u0027 to context menu_on.reg":  "by Shawn Brink\r\nUpdated on: June 22, 2022\r\nTutorial: https://www.tenforums.com/tutorials/26720-add-remove-set-desktop-background-context-menu-windows-10-a.html",
+                  "2. REMOVE \u0027Set as desktop background\u0027 from context menu _off.reg":  "by Shawn Brink\r\nUpdated on: June 22, 2022\r\nTutorial: https://www.tenforums.com/tutorials/26720-add-remove-set-desktop-background-context-menu-windows-10-a.html",
+                  "3. ADD \u0027Screen Snip\u0027 to context menu _on.reg":  "Adds screenshot option to the context menu.\r\nEdit \"Position\"=\"_______\" line with Top/Middle/Bottom to change its position.\r\nBy Edwin, 3/20/18,\r\nhttps://www.tenforums.com/customization/106428-request-reg-file-add-snipping-tool-new-snip-context-menu.html",
+                  "3. REMOVE  \u0027Screen Snip\u0027 from context menu _off.reg":  "Removes screenshot option from the context menu.\r\nBy Edwin, 3/20/18,\r\nhttps://www.tenforums.com/customization/106428-request-reg-file-add-snipping-tool-new-snip-context-menu.html"
+              },
+    "Colors":  {
+                   "1. ADD \u0027Restore Previous Versions\u0027 to context menu_on.reg":  "#447aca",
+                   "1. REMOVE \u0027Restore Previous Versions\u0027 from context menu_off.reg":  "#447aca",
+                   "2. ADD \u0027Set as desktop background\u0027 to context menu_on.reg":  "#d48309",
+                   "2. REMOVE \u0027Set as desktop background\u0027 from context menu _off.reg":  "#d48309",
+                   "3. ADD \u0027Screen Snip\u0027 to context menu _on.reg":  "#66dd41",
+                   "3. REMOVE  \u0027Screen Snip\u0027 from context menu _off.reg":  "#66dd41"
+               }
+}

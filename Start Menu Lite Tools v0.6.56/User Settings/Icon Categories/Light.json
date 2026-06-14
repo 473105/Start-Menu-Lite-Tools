@@ -1,0 +1,3999 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-29T15:35:40.3902236Z",
+    "Categories":  [
+                       "Light"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcpluir.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ActionCenter.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\AdmTmpl.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\appwiz.cpl",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\azroleui.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\bootux.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\certmgr.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\certmgr.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\cleanmgr.exe",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comdlg32.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comdlg32.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comdlg32.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comdlg32.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DAMM.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  113,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  123,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  125,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  129,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  130,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  131,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  132,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  133,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  134,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  135,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  142,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  143,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  144,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  145,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DevicePairing.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DisplaySwitch.exe",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DisplaySwitch.exe",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DisplaySwitch.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DisplaySwitch.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dot3mm.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  157,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  158,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\e_wf1vve.inf_amd64_d4bd9274ad11073f\\E_WI1UAE.DLL",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvui.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvui.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvui.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvuir.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvuir.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvuir.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvwss.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvwss.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvwssr.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\DriverStore\\FileRepository\\nv_dispig.inf_amd64_19f3764f95906f94\\nvwssr.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fdprint.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\fontext.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\hnetcfg.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\hnetcfg.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\hotplug.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  150,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  151,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  180,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  181,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  227,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  231,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  238,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  239,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  240,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  246,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  249,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  254,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  260,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  261,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  274,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  275,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  277,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  287,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  306,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  322,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  323,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  324,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  327,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  328,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  331,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  333,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  334,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  335,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  336,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  337,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  338,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  345,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  346,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  348,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  349,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  357,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  358,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  359,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  360,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  361,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  362,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  369,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  370,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  371,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  372,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  373,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  374,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  381,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  382,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  383,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  384,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  385,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  386,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  393,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  394,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  395,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  399,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  401,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  403,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  407,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  408,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPDCT.EXE",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEJP\\IMJPTIP.DLL",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEKR\\imkrotip.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMEKR\\imkrotip.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCPROP.exe",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCPROP.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCPROP.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCPROP.exe",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCPROP.exe",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCPROP.exe",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCTIP.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\IMETC\\IMTCTIP.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\shared\\MSCAND20.DLL",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\shared\\MSCAND20.DLL",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\shared\\MSCAND20.DLL",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\shared\\MSCAND20.DLL",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\shared\\MSCAND20.DLL",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\shared\\MSCAND20.DLL",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\IME\\shared\\MSCAND20.DLL",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\InputMethod\\CHS\\ChsIME.exe",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\main.cpl",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mapi32.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mapi32.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mferror.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\msctfuimanager.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\msctfuimanager.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\msctfuimanager.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\msctfuimanager.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\msctfuimanager.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mspaint.exe",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\msra.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mssvp.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\MusNotifyIcon.exe",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\MusNotifyIcon.exe",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\MusNotifyIcon.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\MusNotifyIcon.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ole32.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\OpenWith.exe",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\PortableDeviceStatus.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\rasdlg.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\rasdlg.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\RASMM.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\RASMM.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\RASMM.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\scrptadm.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\sendmail.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SettingsHandlers_StorageSense.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  134,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  152,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  156,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  224,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  246,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  247,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  250,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  253,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  257,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  271,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  284,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  289,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  290,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  295,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  309,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  310,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  311,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  312,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  313,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  317,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  318,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\SndVolSSO.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\stobject.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\stobject.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\stobject.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\stobject.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\stobject.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\sud.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\taskbarcpl.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\Taskmgr.exe",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\Taskmgr.exe",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\twinui.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\uireng.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\UNP\\UNPUX.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wcnwiz.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wcnwiz.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wdc.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wdc.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WlanMM.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\WpcMon.exe",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wwanmm.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Light"
+                                           ]
+                        }
+                    ]
+}

@@ -1,0 +1,2389 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-18T20:03:56.1566826Z",
+    "Categories":  [
+                       "Info glyphs"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcplui.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcplui.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcplui.exe",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcplui.exe",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcpluir.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcpluir.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcpluir.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcpluir.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\NvGpuUtilization.exe",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ActionCenter.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  148,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  154,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  155,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  160,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  167,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  175,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  180,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  197,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  198,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  199,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  207,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  218,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  219,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  225,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  227,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  228,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  229,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  230,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  231,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  232,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  233,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  234,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  235,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  242,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  248,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  249,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  250,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  251,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  255,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  267,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  276,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  281,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  288,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  293,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  296,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  299,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  323,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  324,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  325,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  326,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  327,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  328,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  329,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  330,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  331,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  332,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  399,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  400,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  123,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  130,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  150,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  151,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shdocvw.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  123,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  130,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  131,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  144,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  146,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  154,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  159,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  176,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  208,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  210,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  219,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  221,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  233,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  238,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  244,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  245,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  246,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  247,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  248,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  249,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  263,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  265,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  267,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  277,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  287,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  293,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  294,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  296,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  297,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  299,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  302,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  307,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  308,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  311,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  317,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  318,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  320,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\user32.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\user32.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\user32.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\user32.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\user32.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  120,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  129,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  131,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  132,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  133,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  135,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  152,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  153,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Info glyphs"
+                                           ]
+                        }
+                    ]
+}

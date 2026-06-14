@@ -1,0 +1,106 @@
+﻿{
+    "IconSources":  [
+                        {
+                            "Path":  "%SystemRoot%\\explorer.exe",
+                            "Kind":  "BuiltIn",
+                            "Show":  true
+                        },
+                        {
+                            "Path":  "%ProgramFiles%\\WindowsApps",
+                            "Kind":  "BuiltIn",
+                            "Show":  true
+                        },
+                        {
+                            "Path":  "%SystemRoot%\\System32",
+                            "Kind":  "Custom",
+                            "Show":  true
+                        },
+                        {
+                            "Path":  "%UserProfile%\\Desktop",
+                            "Kind":  "Custom",
+                            "Show":  true
+                        }
+                    ],
+    "CategoryPanelState":  {
+                               "Rows":  [
+                                            {
+                                                "Name":  "Files \u0026 apps",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Folders",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "General",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Info glyphs",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Light",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Media",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "MSDOS",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Network",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Overlays",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "PC, tablet, etc",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Print, scan, etc",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Security, admin",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            },
+                                            {
+                                                "Name":  "Storage",
+                                                "Select":  false,
+                                                "Show":  true,
+                                                "Mask":  false
+                                            }
+                                        ]
+                           }
+}

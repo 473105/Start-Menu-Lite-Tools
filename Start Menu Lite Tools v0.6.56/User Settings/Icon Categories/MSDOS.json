@@ -1,0 +1,3271 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-07T00:52:16.9403292Z",
+    "Categories":  [
+                       "MSDOS"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  113,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  119,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  120,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  125,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  130,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  131,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  132,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  133,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  135,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  136,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  138,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  139,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  141,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  142,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  144,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  145,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  241,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "MSDOS"
+                                           ]
+                        }
+                    ]
+}

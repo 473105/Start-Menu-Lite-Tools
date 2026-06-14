@@ -1,0 +1,695 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-16T07:51:19.4671023Z",
+    "Categories":  [
+                       "Folders"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  123,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  153,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  157,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  165,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  166,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  169,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  172,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  176,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  177,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  203,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  205,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  217,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  243,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  244,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  264,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  265,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  266,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  278,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  292,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  294,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  321,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  129,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  147,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  148,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  155,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  158,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  205,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  234,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  266,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  275,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  278,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  279,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  280,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  298,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  300,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  309,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  310,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  319,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  113,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Folders"
+                                           ]
+                        }
+                    ]
+}

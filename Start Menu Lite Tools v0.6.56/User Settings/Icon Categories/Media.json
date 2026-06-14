@@ -1,0 +1,1227 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-07T00:52:16.8323253Z",
+    "Categories":  [
+                       "Media"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  131,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  145,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  159,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  186,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  190,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  191,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  192,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  236,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  257,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  267,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  273,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  282,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  285,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  316,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  317,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  119,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  138,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  140,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  141,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  142,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  143,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  161,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  168,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  185,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  189,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  192,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  193,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  194,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  201,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  202,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  203,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  212,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  213,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  241,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  261,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  267,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  313,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  314,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  315,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  321,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  322,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  323,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  324,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  325,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  326,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  327,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  328,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  154,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  155,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  156,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  157,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Media"
+                                           ]
+                        }
+                    ]
+}

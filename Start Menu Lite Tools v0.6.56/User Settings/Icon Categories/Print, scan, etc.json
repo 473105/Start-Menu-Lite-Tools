@@ -1,0 +1,562 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-07T00:52:19.4193272Z",
+    "Categories":  [
+                       "Print, scan, etc"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  130,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  302,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  314,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  143,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  163,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  197,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  201,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  202,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  203,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  222,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  225,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  226,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  227,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  228,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  230,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  231,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Print, scan, etc"
+                                           ]
+                        }
+                    ]
+}

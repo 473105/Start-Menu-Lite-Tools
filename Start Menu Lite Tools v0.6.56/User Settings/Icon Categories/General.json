@@ -1,0 +1,1178 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-16T04:18:56.0739611Z",
+    "Categories":  [
+                       "General"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ActionCenter.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  175,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  188,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  189,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  190,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  191,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  192,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  193,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  220,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  224,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  226,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  227,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  228,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  229,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  230,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  231,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  232,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  233,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  234,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  235,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  236,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  241,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  296,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  306,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  311,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  322,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  327,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  329,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  331,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  332,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  337,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  343,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  374,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  380,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  393,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  396,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  399,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  400,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  166,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  168,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  176,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  178,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  185,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  211,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  215,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  217,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  238,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  239,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  299,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  320,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  325,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  326,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  327,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  328,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\user32.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "General"
+                                           ]
+                        }
+                    ]
+}

@@ -1,0 +1,226 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-18T22:55:37.4414556Z",
+    "Categories":  [
+                       "Overlays"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  154,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  155,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  160,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  167,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  218,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  219,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  123,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  123,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Overlays"
+                                           ]
+                        }
+                    ]
+}

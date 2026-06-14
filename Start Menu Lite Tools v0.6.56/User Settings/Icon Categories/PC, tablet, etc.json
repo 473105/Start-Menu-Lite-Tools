@@ -1,0 +1,2676 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-07T00:52:19.2133277Z",
+    "Categories":  [
+                       "PC, tablet, etc"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  123,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  129,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  138,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  139,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  140,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  141,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  142,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  144,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  145,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  139,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  141,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  143,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  145,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  162,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  186,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  193,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  201,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  202,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  209,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  210,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  268,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  269,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  270,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  285,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  290,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  302,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  310,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  313,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  316,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  317,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  318,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  320,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  393,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  396,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  411,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  119,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmres.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  113,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  125,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  129,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  158,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  159,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  160,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  161,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  162,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  163,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  164,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\networkexplorer.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\networkexplorer.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  140,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  141,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  161,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  173,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  174,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  186,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  187,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  191,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  194,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  195,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  196,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  201,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  202,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  203,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  223,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  225,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  231,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  232,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  243,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  272,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  276,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "PC, tablet, etc"
+                                           ]
+                        }
+                    ]
+}

@@ -1,0 +1,1822 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-07T00:52:20.0383280Z",
+    "Categories":  [
+                       "Storage"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\comres.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  143,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  146,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ddores.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dmdskres.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  129,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  133,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  134,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  135,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  136,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  140,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  148,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  158,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  160,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  163,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  164,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  211,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  212,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  213,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  214,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  215,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  216,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  217,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  218,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  219,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  220,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  226,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  231,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  238,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  265,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  268,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  269,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  270,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  293,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  313,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  316,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  317,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  318,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  320,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  119,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  105,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\networkexplorer.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  101,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  113,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  119,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  120,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  125,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  151,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  153,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  157,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  159,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  162,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  178,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  179,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  180,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  181,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  182,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  183,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  184,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  185,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  186,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  187,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  188,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  189,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  190,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  192,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  193,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  194,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  198,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  204,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  206,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  208,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  210,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  221,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  223,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  243,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  258,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  262,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  265,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  286,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  287,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  291,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  296,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  311,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  131,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  135,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  152,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  153,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  77,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  80,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Storage"
+                                           ]
+                        }
+                    ]
+}

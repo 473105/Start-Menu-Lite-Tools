@@ -1,0 +1,1885 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-07T00:52:15.6923281Z",
+    "Categories":  [
+                       "Files \u0026 apps"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Program Files\\WindowsApps\\NVIDIACorp.NVIDIAControlPanel_8.1.969.0_x64__56jybvy8sckqj\\nvcplui.exe",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\explorer.exe",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\accessibilitycpl.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  94,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  93,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  119,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  120,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  121,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  149,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  150,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  151,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  239,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  241,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  246,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  247,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  252,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  253,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  254,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  260,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  261,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  272,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  273,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  274,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  275,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  277,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  279,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  287,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  288,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  289,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  291,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  297,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  305,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  306,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  309,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  311,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  312,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  322,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  113,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  128,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  79,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  109,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\moricons.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstsc.exe",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mstscax.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pifmgr.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  134,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  152,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  156,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  169,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  175,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  224,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  240,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  250,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  251,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  252,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  253,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  254,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  255,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  256,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  257,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  260,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  261,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  269,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  271,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  282,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  283,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  284,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  288,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  289,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  290,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  295,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  306,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  312,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  313,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  314,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  315,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  72,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  73,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  74,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  75,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  84,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  96,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  97,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  98,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\sud.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\sud.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\sud.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\sud.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\sud.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\user32.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  100,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  122,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  47,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  87,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  95,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wpdshext.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Files \u0026 apps"
+                                           ]
+                        }
+                    ]
+}

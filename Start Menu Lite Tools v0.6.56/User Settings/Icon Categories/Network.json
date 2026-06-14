@@ -1,0 +1,2536 @@
+﻿{
+    "SchemaVersion":  1,
+    "GeneratedAtUtc":  "2026-04-07T00:52:17.1473295Z",
+    "Categories":  [
+                       "Network"
+                   ],
+    "Assignments":  [
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\compstui.dll",
+                            "IconIndex":  61,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\dsuiext.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\ieframe.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  146,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  162,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  170,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  220,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  231,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  256,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  304,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  327,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  328,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  329,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  330,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  333,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  334,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  335,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  336,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  337,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  338,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  339,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  340,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  341,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  342,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  343,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  344,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  345,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  346,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  347,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  348,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  349,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  350,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  351,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  352,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  353,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  354,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  355,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  356,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  357,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  358,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  359,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  360,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  361,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  362,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  363,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  364,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  365,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  366,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  367,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  368,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  369,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  370,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  371,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  372,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  373,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  374,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  375,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  376,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  377,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  378,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  379,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  380,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  381,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  382,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  383,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  384,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  385,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  386,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  387,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  388,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  389,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  390,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  391,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  392,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  393,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  394,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  395,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  396,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  397,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  398,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  399,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  400,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  401,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  402,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  403,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  404,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  405,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  406,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  407,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  408,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  409,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  410,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\imageres.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\inetcpl.cpl",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\mmcndmgr.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netcenter.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  102,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  104,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  106,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  107,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  110,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  111,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  112,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  113,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  114,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  115,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  116,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  117,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  118,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  119,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  120,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  124,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  127,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  129,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  131,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  132,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  133,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  135,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  136,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  138,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  139,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  140,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  141,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  142,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  143,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  144,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  145,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  146,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  147,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  148,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  149,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  152,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  153,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  154,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  155,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  156,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  157,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  158,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  159,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  160,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  161,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  162,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  163,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  164,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  44,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  45,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  46,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  48,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  49,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  50,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  51,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  52,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  55,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  56,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  57,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  58,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  59,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  62,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  63,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  64,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  65,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  66,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  67,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  68,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  69,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  70,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  71,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  78,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  81,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  83,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  86,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  90,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  91,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\netshell.dll",
+                            "IconIndex":  99,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\networkexplorer.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\networkexplorer.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  1,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  12,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  15,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  16,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  19,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  2,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  20,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  21,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  22,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  23,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  24,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  25,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  26,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  28,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  29,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  3,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  31,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  34,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  36,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  37,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  38,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  39,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  4,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  40,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  42,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\pnidui.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  0,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  11,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  27,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  30,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  32,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  5,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  53,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  54,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  6,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\setupapi.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  10,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  103,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  108,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  13,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  135,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  138,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  14,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  142,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  148,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  149,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  150,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  164,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  17,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  18,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  197,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  220,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  242,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  273,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  274,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  275,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  276,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  33,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  35,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  60,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  82,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  85,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  88,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  89,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  9,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\shell32.dll",
+                            "IconIndex":  92,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  7,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wiashext.dll",
+                            "IconIndex":  8,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  126,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  137,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  138,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  139,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  140,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  141,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  142,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  143,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  144,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  145,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  146,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  147,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  148,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  149,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  150,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  151,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  41,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  43,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        },
+                        {
+                            "IconPath":  "C:\\Windows\\system32\\wmploc.dll",
+                            "IconIndex":  76,
+                            "Categories":  [
+                                               "Network"
+                                           ]
+                        }
+                    ]
+}
